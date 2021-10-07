@@ -1,0 +1,96 @@
+{ 
+    "_id" : ObjectId("6156d76c6f195ca10fab8772"), 
+    "id" : NumberInt(46), 
+    "projectId" : NumberInt(2), 
+    "taskId" : NumberInt(1), 
+    "billable" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6156d76c6f195ca10fab8773"), 
+    "id" : NumberInt(47), 
+    "projectId" : NumberInt(2), 
+    "taskId" : NumberInt(3), 
+    "billable" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6156d76c6f195ca10fab8774"), 
+    "id" : NumberInt(48), 
+    "projectId" : NumberInt(2), 
+    "taskId" : NumberInt(5), 
+    "billable" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6156d76c6f195ca10fab8775"), 
+    "id" : NumberInt(49), 
+    "projectId" : NumberInt(2), 
+    "taskId" : NumberInt(7), 
+    "billable" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6156d76c6f195ca10fab8776"), 
+    "id" : NumberInt(50), 
+    "projectId" : NumberInt(2), 
+    "taskId" : NumberInt(2), 
+    "billable" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6156d76c6f195ca10fab8777"), 
+    "id" : NumberInt(51), 
+    "projectId" : NumberInt(2), 
+    "taskId" : NumberInt(4), 
+    "billable" : false, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6156d76c6f195ca10fab8778"), 
+    "id" : NumberInt(52), 
+    "projectId" : NumberInt(2), 
+    "taskId" : NumberInt(6), 
+    "billable" : false, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("615a8a2696675c748d94b5d0"), 
+    "id" : NumberInt(58), 
+    "projectId" : NumberInt(3), 
+    "taskId" : NumberInt(1), 
+    "billable" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("615a8a2696675c748d94b5d1"), 
+    "id" : NumberInt(59), 
+    "projectId" : NumberInt(3), 
+    "taskId" : NumberInt(3), 
+    "billable" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("615a8a2696675c748d94b5d2"), 
+    "id" : NumberInt(60), 
+    "projectId" : NumberInt(3), 
+    "taskId" : NumberInt(5), 
+    "billable" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("615a8a2696675c748d94b5d3"), 
+    "id" : NumberInt(61), 
+    "projectId" : NumberInt(3), 
+    "taskId" : NumberInt(7), 
+    "billable" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("615a8a2696675c748d94b5d4"), 
+    "id" : NumberInt(62), 
+    "projectId" : NumberInt(3), 
+    "taskId" : NumberInt(2), 
+    "billable" : true, 
+    "__v" : NumberInt(0)
+}

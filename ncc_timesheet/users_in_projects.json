@@ -1,0 +1,72 @@
+{ 
+    "_id" : ObjectId("6156d76c6f195ca10fab877a"), 
+    "id" : NumberInt(53), 
+    "projectId" : NumberInt(2), 
+    "userId" : NumberInt(1), 
+    "type" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6156d76c6f195ca10fab877b"), 
+    "id" : NumberInt(54), 
+    "projectId" : NumberInt(2), 
+    "userId" : NumberInt(3), 
+    "type" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6156d76c6f195ca10fab877c"), 
+    "id" : NumberInt(55), 
+    "projectId" : NumberInt(2), 
+    "userId" : NumberInt(4), 
+    "type" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6156d76c6f195ca10fab877d"), 
+    "id" : NumberInt(56), 
+    "projectId" : NumberInt(2), 
+    "userId" : NumberInt(5), 
+    "type" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6156d76c6f195ca10fab877e"), 
+    "id" : NumberInt(57), 
+    "projectId" : NumberInt(2), 
+    "userId" : NumberInt(6), 
+    "type" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("615a8a2696675c748d94b5d6"), 
+    "id" : NumberInt(63), 
+    "projectId" : NumberInt(3), 
+    "userId" : NumberInt(3), 
+    "type" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("615a8a2696675c748d94b5d7"), 
+    "id" : NumberInt(64), 
+    "projectId" : NumberInt(3), 
+    "userId" : NumberInt(4), 
+    "type" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("615a8a2696675c748d94b5d8"), 
+    "id" : NumberInt(65), 
+    "projectId" : NumberInt(3), 
+    "userId" : NumberInt(5), 
+    "type" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("615a8a2696675c748d94b5d9"), 
+    "id" : NumberInt(66), 
+    "projectId" : NumberInt(3), 
+    "userId" : NumberInt(6), 
+    "type" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}

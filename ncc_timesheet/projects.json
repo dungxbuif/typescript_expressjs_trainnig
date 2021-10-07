@@ -1,0 +1,17 @@
+{ 
+    "_id" : ObjectId("615a8a26019e4dd8b89c1b5b"), 
+    "id" : NumberInt(3), 
+    "__v" : NumberInt(0), 
+    "code" : "123", 
+    "customerId" : NumberInt(5), 
+    "isAllUserBelongTo" : true, 
+    "name" : "VR", 
+    "note" : null, 
+    "projectTargetUsers" : [
+
+    ], 
+    "projectType" : NumberInt(1), 
+    "status" : NumberInt(0), 
+    "timeEnd" : ISODate("2021-10-30T17:00:00.000+0000"), 
+    "timeStart" : ISODate("2021-09-30T17:00:00.000+0000")
+}

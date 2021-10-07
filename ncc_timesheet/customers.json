@@ -1,0 +1,28 @@
+{ 
+    "_id" : ObjectId("615413d7ea1a48d9c1ebd03f"), 
+    "id" : NumberInt(2), 
+    "name" : "Hoàng", 
+    "address" : "Hải Phòng", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61541a48cb92beba333db8f9"), 
+    "id" : NumberInt(3), 
+    "name" : "Hoàng 2", 
+    "address" : "Hải Phòng", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6155145c88157ecc6030143a"), 
+    "id" : NumberInt(5), 
+    "name" : "VCNTT-DHQG", 
+    "address" : "18 Xuân Thủy", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6156d7c979379fbb2b85c318"), 
+    "id" : NumberInt(6), 
+    "name" : "Anh Hiếu", 
+    "address" : "Hà Nội", 
+    "__v" : NumberInt(0)
+}

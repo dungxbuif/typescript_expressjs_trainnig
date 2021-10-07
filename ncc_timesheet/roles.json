@@ -1,0 +1,18 @@
+{ 
+    "_id" : ObjectId("61541326fddf2ec5d8d2012e"), 
+    "id" : NumberInt(2), 
+    "name" : "Admin", 
+    "displayName" : "Admin", 
+    "normalizedName" : "ADMIN", 
+    "description" : "Admin", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6156ab12d8378f27331d712c"), 
+    "id" : NumberInt(4), 
+    "name" : "BasicUser", 
+    "displayName" : "BasicUser", 
+    "normalizedName" : "BASICUSER", 
+    "description" : "BasicUser", 
+    "__v" : NumberInt(0)
+}

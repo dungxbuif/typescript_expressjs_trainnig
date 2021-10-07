@@ -1,0 +1,240 @@
+{ 
+    "_id" : ObjectId("61554a3ba2fc9c34c61b257c"), 
+    "id" : NumberInt(2), 
+    "userId" : NumberInt(6), 
+    "typeOfWork" : NumberInt(0), 
+    "projectTaskId" : NumberInt(28), 
+    "note" : "abc@432ra", 
+    "projectTargetUserId" : null, 
+    "workingTime" : NumberInt(270), 
+    "targetUserWorkingTime" : NumberInt(0), 
+    "dateAt" : ISODate("2021-09-30T00:00:00.000+0000"), 
+    "isCharged" : null, 
+    "status" : NumberInt(3), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61555d1e267e6c7d9ef21ca1"), 
+    "id" : NumberInt(3), 
+    "userId" : NumberInt(6), 
+    "typeOfWork" : NumberInt(0), 
+    "projectTaskId" : NumberInt(28), 
+    "note" : "thứ 2", 
+    "projectTargetUserId" : null, 
+    "workingTime" : NumberInt(480), 
+    "targetUserWorkingTime" : NumberInt(0), 
+    "dateAt" : ISODate("2021-09-27T00:00:00.000+0000"), 
+    "isCharged" : null, 
+    "status" : NumberInt(3), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61564e7723bc2b4eade397be"), 
+    "id" : NumberInt(4), 
+    "userId" : NumberInt(1), 
+    "typeOfWork" : NumberInt(0), 
+    "projectTaskId" : NumberInt(32), 
+    "note" : "fdsfsdf", 
+    "projectTargetUserId" : null, 
+    "workingTime" : NumberInt(480), 
+    "targetUserWorkingTime" : NumberInt(0), 
+    "dateAt" : ISODate("2021-10-01T00:00:00.000+0000"), 
+    "isCharged" : false, 
+    "status" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6156521631aaf4fc7ec4981b"), 
+    "id" : NumberInt(5), 
+    "userId" : NumberInt(6), 
+    "typeOfWork" : NumberInt(0), 
+    "projectTaskId" : NumberInt(28), 
+    "note" : null, 
+    "projectTargetUserId" : null, 
+    "workingTime" : NumberInt(480), 
+    "targetUserWorkingTime" : NumberInt(0), 
+    "dateAt" : ISODate("2021-10-01T00:00:00.000+0000"), 
+    "isCharged" : null, 
+    "status" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("615652b2e94fe0ee9f3a3d9c"), 
+    "id" : NumberInt(6), 
+    "userId" : NumberInt(1), 
+    "typeOfWork" : NumberInt(0), 
+    "projectTaskId" : NumberInt(31), 
+    "note" : null, 
+    "projectTargetUserId" : null, 
+    "workingTime" : NumberInt(480), 
+    "targetUserWorkingTime" : NumberInt(0), 
+    "dateAt" : ISODate("2021-10-04T00:00:00.000+0000"), 
+    "isCharged" : null, 
+    "status" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("615652c09d61b957d3b36936"), 
+    "id" : NumberInt(7), 
+    "userId" : NumberInt(1), 
+    "typeOfWork" : NumberInt(0), 
+    "projectTaskId" : NumberInt(29), 
+    "note" : null, 
+    "projectTargetUserId" : null, 
+    "workingTime" : NumberInt(480), 
+    "targetUserWorkingTime" : NumberInt(0), 
+    "dateAt" : ISODate("2021-10-05T00:00:00.000+0000"), 
+    "isCharged" : null, 
+    "status" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("615652d41a6db75cfce6518e"), 
+    "id" : NumberInt(8), 
+    "userId" : NumberInt(1), 
+    "typeOfWork" : NumberInt(1), 
+    "projectTaskId" : NumberInt(29), 
+    "note" : null, 
+    "projectTargetUserId" : null, 
+    "workingTime" : NumberInt(300), 
+    "targetUserWorkingTime" : NumberInt(0), 
+    "dateAt" : ISODate("2021-10-06T00:00:00.000+0000"), 
+    "isCharged" : null, 
+    "status" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("615652df1a6db75cfce65191"), 
+    "id" : NumberInt(9), 
+    "userId" : NumberInt(1), 
+    "typeOfWork" : NumberInt(0), 
+    "projectTaskId" : NumberInt(28), 
+    "note" : null, 
+    "projectTargetUserId" : null, 
+    "workingTime" : NumberInt(480), 
+    "targetUserWorkingTime" : NumberInt(0), 
+    "dateAt" : ISODate("2021-10-06T00:00:00.000+0000"), 
+    "isCharged" : null, 
+    "status" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6156d64f8cb594bcc0ce287d"), 
+    "id" : NumberInt(10), 
+    "userId" : NumberInt(6), 
+    "typeOfWork" : NumberInt(0), 
+    "projectTaskId" : NumberInt(30), 
+    "note" : "dfghfdgd", 
+    "projectTargetUserId" : null, 
+    "workingTime" : NumberInt(480), 
+    "targetUserWorkingTime" : NumberInt(0), 
+    "dateAt" : ISODate("2021-09-29T00:00:00.000+0000"), 
+    "isCharged" : null, 
+    "status" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6156d98a25be66febcca9262"), 
+    "id" : NumberInt(11), 
+    "userId" : NumberInt(6), 
+    "typeOfWork" : NumberInt(0), 
+    "projectTaskId" : NumberInt(49), 
+    "note" : "bac", 
+    "projectTargetUserId" : null, 
+    "workingTime" : NumberInt(480), 
+    "targetUserWorkingTime" : NumberInt(0), 
+    "dateAt" : ISODate("2021-10-01T00:00:00.000+0000"), 
+    "isCharged" : null, 
+    "status" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6156dcd3f6846fcd87520684"), 
+    "id" : NumberInt(12), 
+    "userId" : NumberInt(6), 
+    "typeOfWork" : NumberInt(0), 
+    "projectTaskId" : NumberInt(46), 
+    "note" : "abc", 
+    "projectTargetUserId" : null, 
+    "workingTime" : NumberInt(420), 
+    "targetUserWorkingTime" : NumberInt(0), 
+    "dateAt" : ISODate("2021-10-04T00:00:00.000+0000"), 
+    "isCharged" : null, 
+    "status" : NumberInt(3), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("615a608bc75341382d87fe70"), 
+    "id" : NumberInt(13), 
+    "userId" : NumberInt(1), 
+    "typeOfWork" : NumberInt(0), 
+    "projectTaskId" : NumberInt(48), 
+    "note" : null, 
+    "projectTargetUserId" : null, 
+    "workingTime" : NumberInt(480), 
+    "targetUserWorkingTime" : NumberInt(0), 
+    "dateAt" : ISODate("2021-10-04T00:00:00.000+0000"), 
+    "isCharged" : null, 
+    "status" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("615a60a265636232da6792d2"), 
+    "id" : NumberInt(14), 
+    "userId" : NumberInt(1), 
+    "typeOfWork" : NumberInt(1), 
+    "projectTaskId" : NumberInt(47), 
+    "note" : null, 
+    "projectTargetUserId" : null, 
+    "workingTime" : NumberInt(180), 
+    "targetUserWorkingTime" : NumberInt(0), 
+    "dateAt" : ISODate("2021-10-04T00:00:00.000+0000"), 
+    "isCharged" : false, 
+    "status" : NumberInt(3), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("615a9abba8e1e3a7fbd7bca8"), 
+    "id" : NumberInt(15), 
+    "userId" : NumberInt(6), 
+    "typeOfWork" : NumberInt(0), 
+    "projectTaskId" : NumberInt(58), 
+    "note" : "8", 
+    "projectTargetUserId" : null, 
+    "workingTime" : NumberInt(480), 
+    "targetUserWorkingTime" : NumberInt(0), 
+    "dateAt" : ISODate("2021-10-04T00:00:00.000+0000"), 
+    "isCharged" : null, 
+    "status" : NumberInt(3), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("615a9adb07ca901c0c370cf6"), 
+    "id" : NumberInt(16), 
+    "userId" : NumberInt(6), 
+    "typeOfWork" : NumberInt(0), 
+    "projectTaskId" : NumberInt(58), 
+    "note" : null, 
+    "projectTargetUserId" : null, 
+    "workingTime" : NumberInt(480), 
+    "targetUserWorkingTime" : NumberInt(0), 
+    "dateAt" : ISODate("2021-10-05T00:00:00.000+0000"), 
+    "isCharged" : null, 
+    "status" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("615a9aed899ad11414079e0c"), 
+    "id" : NumberInt(17), 
+    "userId" : NumberInt(6), 
+    "typeOfWork" : NumberInt(0), 
+    "projectTaskId" : NumberInt(58), 
+    "note" : null, 
+    "projectTargetUserId" : null, 
+    "workingTime" : NumberInt(480), 
+    "targetUserWorkingTime" : NumberInt(0), 
+    "dateAt" : ISODate("2021-10-06T00:00:00.000+0000"), 
+    "isCharged" : null, 
+    "status" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
